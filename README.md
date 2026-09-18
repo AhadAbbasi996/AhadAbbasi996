@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=FF003C&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Abdul+Ahad;%24+./status;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Red+Teaming+%7C+CTF+Player">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=FF003C&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Abdul+Ahad;%24+./status;%3E+Cybersecurity+%7C+Pentesting+%7C+Red+Teaming;%24+./focus;%3E+CTFs+%7C+Web+Security+%7C+AD">
 
 </div>
 
@@ -21,6 +21,3 @@
 [+] Active Directory
 [+] CTFs
 
-
-root@ahad:~$ ls tools
-<p align="center"> <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=ff003c"> <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=ff003c"> <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=ff003c"> <img src="https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logoColor=ff003c"> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ff003c"> </p>
