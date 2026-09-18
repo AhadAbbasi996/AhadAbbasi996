@@ -1,148 +1,78 @@
-<h1 align="center">Hi, I'm Abdul Ahad 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Undergraduate | Cybersecurity Enthusiast | Penetration Tester | Red Teaming</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff9c&height=180&section=header&text=ABDUL%20AHAD&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%2F%2F%20RED%20TEAMING%20%2F%2F%20CTF&descAlignY=62&descSize=16">
 
-<p align="center">
-  <a href="https://github.com/AhadAbbasi996">
-    <img src="https://img.shields.io/badge/GitHub-AhadAbbasi996-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Cybersecurity+Enthusiast;Penetration+Testing;Red+Teaming+%7C+CTFs+%7C+Offensive+Security">
 
----
+</div>
 
-## 👨‍💻 About Me
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   ahad@kali:~$ whoami                               │
+│                                                     │
+│   Abdul Ahad                                        │
+│   SE Undergraduate                                 │
+│   Cybersecurity Enthusiast                         │
+│                                                     │
+│   [ RED TEAM ] [ PENTEST ] [ CTF ] [ SECURITY ]   │
+│                                                     │
+│   > break                                           │
+│   > understand                                     │
+│   > secure                                          │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 
-I'm a Software Engineering undergraduate with a strong interest in Cybersecurity,
-Penetration Testing, Red Teaming, and Offensive Security.
 
-I enjoy learning by building labs, solving CTF challenges, analyzing systems,
-and experimenting with security tools.
+root@ahad:~# cat about.txt
 
-Currently focused on:
+I'm a Software Engineering undergraduate exploring Cybersecurity, Penetration Testing and Red Teaming.
 
-- 🔴 Penetration Testing & Red Teaming
-- 🏴‍☠️ CTFs & Cyber Ranges
-- 🌐 Web Application Security
-- 🐧 Linux & Windows Security
-- 🔐 Active Directory Security
-- 💻 Software Engineering
-- 🛡️ Defensive & Offensive Security Concepts
+I learn through hands-on labs, CTFs, security research and building things.
+$ cat interests.txt
 
----
+[+] Offensive Security
+[+] Web Application Security
+[+] Network Security
+[+] Linux / Windows
+[+] Active Directory
+[+] CTFs & Cyber Ranges
 
-## 🛠️ Technical Skills
+root@ahad:~# ls /tools
+<p align="center"> <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff9c"> <br> <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c"> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c"> </p>
 
-### Cybersecurity
+root@ahad:~# cat achievements.log
+[+] NUST DigiInn Cyber Range CTF
+    └── Final Round Qualifier
 
-`Penetration Testing` `Web Security` `Network Security`
-`Linux` `Windows` `Active Directory` `CTF`
-`Enumeration` `Vulnerability Assessment`
+[+] Google Cybersecurity Professional Certificate
 
-### Security Tools
+[+] Hands-on HTB / TryHackMe Labs
 
-`Burp Suite` `Nmap` `Metasploit`
-`Wireshark` `Ghidra` `Git` `GitHub`
+[+] Active Directory Security Lab
 
-### Programming
+root@ahad:~# ./featured
 
-`C++` `Java` `C#` `Python`
-`JavaScript` `SQL`
+🔐 Cybersecurity Labs & CTF Writeups
+Hands-on exploitation, enumeration, Linux/Windows security and CTF challenges.
 
----
+🚗 Smart Car Parking System
+Software Engineering project focused on system design and HCI.
 
-## 🏴‍☠️ Cybersecurity Journey
+root@ahad:~# ./stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhadAbbasi996&show_icons=true&hide_border=true&theme=dark&title_color=00ff9c&icon_color=00ff9c"> <img src="https://streak-stats.demolab.com/?user=AhadAbbasi996&theme=dark&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c"> </p>
 
-### 🎯 CTFs & Cyber Ranges
+<div align="center">
+[ SYSTEM STATUS ]
 
-- NUST DigiInn Cyber Range CTF — Final Round Qualifier
-- Hack The Box labs
-- TryHackMe learning labs
-- Web exploitation practice
-- Linux & Windows security labs
-- Active Directory lab environments
+████████████████████████████  ONLINE
 
----
+CYBERSECURITY      ██████████████████░░
+RED TEAMING        ███████████████░░░░░
+CTF                █████████████████░░░
+SOFTWARE           ██████████████████░░
 
-## 📜 Certifications & Learning
+> learn • break • understand • secure_
 
-- Google Cybersecurity Professional Certificate
-- Cybersecurity & Information Security learning
-- Continuous hands-on CTF and penetration testing practice
+<a href="https://github.com/AhadAbbasi996"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9c"> </a> </div> ```
 
----
-
-## 🚀 Projects
-
-### 🔐 Cybersecurity Labs & CTF Writeups
-
-Hands-on security labs covering enumeration, exploitation,
-privilege escalation, web security and system analysis.
-
-### 🚗 Smart Car Parking System
-
-Software engineering project involving parking management,
-vehicle entry/exit, parking status and emergency exit functionality.
-
-### 🍔 Food Ordering System
-
-C++ based application developed using structured programming,
-arrays and data handling.
-
-### 💰 Budget Grocery System
-
-Java Swing + MySQL application for managing grocery budgets
-and related data.
-
----
-
-## 🎨 Other Interests
-
-- Graphic Design
-- UI/UX Design
-- Frontend Development
-- Landing Page Design
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhadAbbasi996&show_icons=true&theme=dark&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadAbbasi996&layout=compact&theme=dark&hide_border=true" height="170">
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhadAbbasi996&theme=dark&hide_border=true">
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/AhadAbbasi996">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>Learn • Build • Break • Secure</i>
-</p>
