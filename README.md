@@ -1,23 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2b0a0a,100:ff003c&height=190&section=header&text=ABDUL%20AHAD&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%2F%2F%20RED%20TEAMING%20%2F%2F%20CTF&descAlignY=62&descSize=16">
+###  Offensive Security Arsenal
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=FF003C&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Abdul+Ahad;%24+./status;%3E+Cybersecurity+%7C+Pentesting+%7C+Red+Teaming;%24+./focus;%3E+CTFs+%7C+Web+Security+%7C+AD">
+[![Linux](https://img.shields.io/badge/Linux-8A0303?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-8A0303?style=for-the-badge&logo=kali-linux&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-8A0303?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-8A0303?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](#)
+[![Metasploit](https://img.shields.io/badge/Metasploit-8A0303?style=for-the-badge&logo=metasploit&logoColor=white)](#)
 
 </div>
 
----
+<br />
 
-### `root@ahad:~$ cat about.txt`
-
-> Software Engineering Undergraduate focused on **Cybersecurity, Penetration Testing & Red Teaming**.
-
-```text
-[+] Web Security
-[+] Network Security
-[+] Linux / Windows
-[+] Active Directory
-[+] CTFs
-
+```bash
+root@ahad:~# nmap -sV -p- --script=vuln local-skills.host
+[+] STATUS: SYSTEM READY FOR PENETRATION TESTING & RED TEAMING
+[+] NEXT TARGET: CAPTURING FLAGS & SECURING INFRASTRUCTURE
