@@ -12,7 +12,3 @@
 
 <br />
 
-```bash
-root@ahad:~# nmap -sV -p- --script=vuln local-skills.host
-[+] STATUS: SYSTEM READY FOR PENETRATION TESTING & RED TEAMING
-[+] NEXT TARGET: CAPTURING FLAGS & SECURING INFRASTRUCTURE
