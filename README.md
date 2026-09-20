@@ -12,4 +12,4 @@
 
 <br />
 
-                 Learn | Compete | Repeat 
+                                                        Learn | Compete | Repeat 
