@@ -1,15 +1,49 @@
 <div align="center">
 
-###  Offensive Security Arsenal
+<h1>⚡ ABDUL AHAD // OFFENSIVE SECURITY</h1>
 
-[![Linux](https://img.shields.io/badge/Linux-8A0303?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-8A0303?style=for-the-badge&logo=kali-linux&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-8A0303?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-8A0303?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-8A0303?style=for-the-badge&logo=metasploit&logoColor=white)](#)
+<h2>👨‍💻 Abdul Ahad</h2>
+
+<p>
+  <b>Software Engineering Undergraduate</b>
+  &nbsp;•&nbsp;
+  <b>Red Teamer</b>
+  &nbsp;•&nbsp;
+  <b>Penetration Testing</b>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td><b>FOCUS</b></td>
+<td>🔴 OFFENSIVE SECURITY</td>
+
+<td><b>ROLE</b></td>
+<td>⚔️ RED TEAMER</td>
+</tr>
+
+<tr>
+<td><b>INTEREST</b></td>
+<td>WEB PENTESTING</td>
+
+<td><b>LAB</b></td>
+<td>CTF • HTB • THM</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <code>RECON</code>
+  →
+  <code>ENUMERATION</code>
+  →
+  <code>EXPLOITATION</code>
+  →
+  <code>PRIVILEGE ESCALATION</code>
+</p>
+
+<hr>
 
 </div>
-
-<br />
-
-                                                        Learn | Compete | Repeat 
